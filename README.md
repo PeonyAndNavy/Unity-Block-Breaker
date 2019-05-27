@@ -1,2 +1,8 @@
-# Unity-Block-Breaker
-The classic block breaking game made using Unity and written in C#
+# Unity Block Breaker
+
+Classic Block Breaker game.
+
+## Built With
+
+* Unity2D
+* C#
